@@ -9,3 +9,7 @@ Answer: Geology, as data from rock collections and excacavations could be used f
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps the treelike structure while rebasing destroys it and makes it linear
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to meeting new people.
