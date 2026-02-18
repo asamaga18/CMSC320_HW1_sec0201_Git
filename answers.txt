@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Geology, as data from rock collections and excacavations could be used for data analysis
