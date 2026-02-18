@@ -5,3 +5,7 @@ Answer: For good version control!
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Geology, as data from rock collections and excacavations could be used for data analysis
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps the treelike structure while rebasing destroys it and makes it linear
